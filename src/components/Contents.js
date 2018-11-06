@@ -59,7 +59,7 @@ class Content extends React.Component {
                   gutterBottom
                   variant="subtitle1"
                 >
-                  Location
+                  Locations
                 </Typography>
                 <Typography
                   className={classes.myText}
